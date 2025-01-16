@@ -33,6 +33,6 @@ A cybersecurity tool for **threat intelligence gathering** and **adversary emula
 ---
 
 ## Documentation
-See the [Documentation](documentation.md) for detailed instructions and examples.
+See the [Documentation](Documentation.md) for detailed instructions and examples.
 
 ---
